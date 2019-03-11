@@ -1,24 +1,16 @@
 # vue.js
 
+
+
+
 ## Project setup
+you will need to download it and have yarn installed and then you can run the following command in your CLI 
 ```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn run serve
+yarn serve
 ```
 
-### Compiles and minifies for production
-```
-yarn run build
-```
+this will start the project and make a url where you can fint the assigment 
 
-### Run your tests
-```
-yarn run test
-```
 
 ### Lints and fixes files
 ```
